@@ -1,2 +1,2 @@
-# face_recognize_test
+# hand_wash
 Created with CodeSandbox
